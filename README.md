@@ -1,0 +1,2 @@
+# AWSPractice
+practicinig aws
